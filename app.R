@@ -1,7 +1,7 @@
 library(shiny)
 library(tidyverse)
 library(dplyr)
-source("R/monthly.R")
+source("Rfunctions/monthly.R")
 
 #data cleaning
 salary = as_tibble(read_csv('data/Salary.csv'))
