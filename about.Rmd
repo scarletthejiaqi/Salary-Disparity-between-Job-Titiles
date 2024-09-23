@@ -1,0 +1,33 @@
+## Author
+
+- **Name:** Jiaqi He
+- **Email:** jiaqi22@illinois.edu
+
+## Purpose
+
+This application showcases salary information for various job titles and provides insights into salary disparities based on years of experience. If the dataset contains more than 10 samples, the plot will feature a smoothed curve to highlight trends.
+
+## Data
+
+This dataset is sourced from Kaggle. It provides a comprehensive collection of salary information from various industries and regions across the globe. It includes details on job titles, salaries, geographic locations, gender, race, and more.
+
+Column Details:
+
+YOE: Years of Experience
+
+salary_in_k: salaries expressed in units of per 1000 dollars
+
+Education Level:
+0 : High School
+1 : Bachelor Degree
+2 : Master Degree
+3 : Phd
+
+Currency : US Dollar
+
+Senior : It shows that is this employee has a senior position or no.(Binary)
+
+## References
+- [Kaggle: Salary by Job Title and Country](https://www.kaggle.com/datasets/amirmahdiabbootalebi/salary-by-job-title-and-country/data)
+- [GPA Shiny Application](https://www.youtube.com/watch?v=hMnivJn3_3s&list=PLBgxzZMu3GpN71ieY830-PbURbZvKn01b&index=48&ab_channel=DavidDalpiaz)
+- [Why do I get "warning longer object length is not a multiple of shorter object length"?](https://stackoverflow.com/questions/10865095/why-do-i-get-warning-longer-object-length-is-not-a-multiple-of-shorter-object-l)
