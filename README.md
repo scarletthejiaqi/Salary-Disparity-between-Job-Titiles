@@ -4,7 +4,7 @@ Feel free to play with the app using the link below:
 
 ## Author
 
-- **Name:** Jiaqi He
+- **Name:** Jiaqi(Scarlett) He
 - **Email:** [Scarlett_hjq@outlook.com](mailto:Scarlett_hjq@outlook.com)
 
 ## Purpose
