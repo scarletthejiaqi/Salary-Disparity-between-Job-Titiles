@@ -8,10 +8,6 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    env:
-      # Fast Linux binaries from Posit Package Manager, with CRAN as a fallback
-      # for versions PPM has not published yet.
-      RENV_CONFIG_REPOS_OVERRIDE: "PPM=https://packagemanager.posit.co/cran/__linux__/noble/latest;CRAN=https://cloud.r-project.org"
     steps:
       - uses: actions/checkout@v4
 
@@ -19,6 +15,11 @@ jobs:
         with:
           r-version: "4.5"
           use-public-rspm: true
+
+      # setup-r points renv at Posit Package Manager binaries; keep that and add
+      # CRAN as a fallback for versions PPM has not published yet.
+      - name: Add CRAN fallback repository
+        run: echo "RENV_CONFIG_REPOS_OVERRIDE=PPM=${RENV_CONFIG_REPOS_OVERRIDE};CRAN=https://cloud.r-project.org" >> "$GITHUB_ENV"
 
       - uses: r-lib/actions/setup-renv@v2
 
