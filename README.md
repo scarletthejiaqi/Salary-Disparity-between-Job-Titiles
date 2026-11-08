@@ -83,6 +83,10 @@ The pipeline is memory-safe by default: it handles one file at a time, streams e
 
 ## Deploy
 
+**Posit Connect Cloud (recommended):** at [connect.posit.cloud](https://connect.posit.cloud), choose *Publish → Shiny*, pick this GitHub repository, the `main` branch and `app.R`. Connect Cloud reads `manifest.json`; run `make manifest` and commit after changing packages or data. Turn on *Automatically publish on push* to redeploy on every push to `main`.
+
+**shinyapps.io:**
+
 ```r
 rsconnect::deployApp(appName = "Salary_Disparity_between_Job_Titles")
 ```

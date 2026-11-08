@@ -1,4 +1,4 @@
-.PHONY: help setup data data-tables test lint run deploy
+.PHONY: help setup data data-tables test lint run manifest deploy
 
 help:          ## Show available commands
 	@grep -E '^[a-z-]+:.*##' $(MAKEFILE_LIST) | awk -F':.*## ' '{printf "  %-12s %s\n", $$1, $$2}'
@@ -20,6 +20,9 @@ lint:          ## Static checks with lintr
 
 run:           ## Start the dashboard locally
 	Rscript -e 'shiny::runApp(".", port = 8080)'
+
+manifest:      ## Refresh manifest.json for Posit Connect Cloud (run after changing packages or data)
+	Rscript -e 'rsconnect::writeManifest(appDir = ".", appPrimaryDoc = "app.R")'
 
 deploy:        ## Deploy to shinyapps.io (requires rsconnect account setup)
 	Rscript -e 'rsconnect::deployApp(appName = "Salary_Disparity_between_Job_Titles")'

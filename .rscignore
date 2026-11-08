@@ -6,3 +6,7 @@ Makefile
 README.md
 DESCRIPTION
 salary.Rproj
+.Rprofile
+.lintr
+.rscignore
+manifest.json
