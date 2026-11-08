@@ -1,0 +1,91 @@
+/* Pay & Hiring Trends - dashboard styles. Tokens mirror R/theme.R (VIZ). */
+:root {
+  --surface-1: #fcfcfb;
+  --page: #f9f9f7;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --good: #006300;
+  --bad: #d03b3b;
+  --hairline: rgba(11, 11, 11, 0.10);
+}
+
+body { background: var(--page); color: var(--ink); }
+.brand { font-weight: 650; letter-spacing: -0.01em; }
+.navbar { border-bottom: 1px solid var(--hairline); }
+.bslib-page-navbar > .navbar + .container-fluid, .navbar + div { padding-top: 0.5rem; }
+
+.page-intro { margin: 0.75rem 0 1rem; max-width: 70rem; }
+.page-intro h2 { font-size: 1.6rem; font-weight: 650; margin-bottom: 0.25rem; letter-spacing: -0.01em; }
+.page-intro p { color: var(--ink-2); margin: 0; }
+
+/* One filter row, left aligned, above everything it scopes */
+.filter-row {
+  display: flex; flex-wrap: wrap; align-items: flex-end; gap: 0.25rem 1.25rem;
+  padding: 0.75rem 1rem 0.25rem; margin-bottom: 1rem;
+  background: var(--surface-1); border: 1px solid var(--hairline); border-radius: 0.6rem;
+}
+.filter-row .form-group, .filter-row .shiny-input-container { margin-bottom: 0.5rem; }
+.filter-row label { font-size: 0.8rem; color: var(--ink-2); font-weight: 600; }
+.filter-row .shiny-options-group { padding-top: 0.3rem; }
+.filter-row .checkbox { padding-bottom: 0.35rem; }
+
+/* Stat tiles */
+.stat-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 0.75rem; margin-bottom: 1rem; }
+.stat-tile {
+  background: var(--surface-1); border: 1px solid var(--hairline); border-radius: 0.6rem;
+  padding: 0.85rem 1rem;
+}
+.stat-label { font-size: 0.8rem; color: var(--ink-2); line-height: 1.25; min-height: 2rem; }
+.stat-value { font-size: 1.65rem; font-weight: 600; letter-spacing: -0.01em; margin-top: 0.15rem; }
+.stat-delta { font-size: 0.82rem; margin-top: 0.15rem; display: flex; gap: 0.35rem; align-items: baseline; flex-wrap: wrap; }
+.stat-delta.good { color: var(--good); }
+.stat-delta.bad { color: var(--bad); }
+.stat-delta.flat { color: var(--ink-2); }
+.stat-delta-icon { font-size: 0.65rem; }
+.stat-delta-label { color: var(--muted); }
+.stat-help { font-size: 0.75rem; color: var(--muted); margin-top: 0.2rem; }
+
+/* Hero figure: exactly one per view, same sans as everything else */
+.headline-grid { display: grid; grid-template-columns: minmax(280px, 1fr) 3fr; gap: 1rem; align-items: stretch; }
+@media (max-width: 992px) { .headline-grid { grid-template-columns: 1fr; } }
+.hero {
+  background: var(--surface-1); border: 1px solid var(--hairline); border-radius: 0.6rem;
+  padding: 1.1rem 1.25rem; margin-bottom: 1rem;
+}
+.hero-label { font-size: 0.85rem; color: var(--ink-2); }
+.hero-value { font-size: 3.25rem; font-weight: 600; letter-spacing: -0.02em; line-height: 1.1; margin: 0.25rem 0; }
+.hero-sub { font-size: 0.9rem; color: var(--ink-2); }
+
+/* Cards */
+.card { border-color: var(--hairline); box-shadow: none; }
+.card-header { background: var(--surface-1); font-weight: 600; }
+.chart-card-title { display: flex; flex-direction: column; }
+.chart-title { font-weight: 600; font-size: 1rem; }
+.chart-subtitle { font-weight: 400; font-size: 0.82rem; color: var(--ink-2); }
+.card-note { font-size: 0.78rem; color: var(--muted); }
+
+.insights { margin: 0; padding-left: 1.1rem; }
+.insights li { margin: 0.35rem 0; line-height: 1.45; }
+
+/* Tables: tabular figures so numbers align */
+.reactable .rt-td, .reactable .rt-th { font-variant-numeric: tabular-nums; }
+
+.prose { max-width: 60rem; }
+.prose h2 { font-size: 1.4rem; margin-top: 0.5rem; }
+.prose h3 { font-size: 1.1rem; margin-top: 1.4rem; }
+.prose table { font-size: 0.88rem; margin: 0.5rem 0 1rem; }
+.prose table td, .prose table th { padding: 0.35rem 0.6rem; border-bottom: 1px solid var(--grid); }
+
+.vintage dt { font-size: 0.8rem; color: var(--ink-2); font-weight: 600; margin-top: 0.4rem; }
+.vintage dd { margin: 0; }
+
+.app-footer {
+  font-size: 0.75rem; color: var(--muted); text-align: center;
+  padding: 1.5rem 1rem 1rem; border-top: 1px solid var(--hairline); margin-top: 1.5rem;
+}
+
+/* Keep the previous render while recalculating (no flash) */
+.recalculating { opacity: 0.55; transition: opacity 150ms ease-in; }

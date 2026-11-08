@@ -1,0 +1,20 @@
+{
+  "lca": {
+    "filings": 4097675,
+    "first_received": "2019-01-07",
+    "last_received": "2026-06-23",
+    "latest_full_year": 2025,
+    "partial_year": 2026,
+    "partial_year_months": 6,
+    "source_files": ["H-1B_Disclosure_Data_FY2019.xlsx", "LCA_Disclosure_Data_FY2020_Q1.xlsx", "LCA_Disclosure_Data_FY2020_Q2.xlsx", "LCA_Disclosure_Data_FY2020_Q3.xlsx", "LCA_Disclosure_Data_FY2020_Q4.xlsx", "LCA_Disclosure_Data_FY2021_Q1.xlsx", "LCA_Disclosure_Data_FY2021_Q2.xlsx", "LCA_Disclosure_Data_FY2021_Q3.xlsx", "LCA_Disclosure_Data_FY2021_Q4.xlsx", "LCA_Disclosure_Data_FY2022_Q1.xlsx", "LCA_Disclosure_Data_FY2022_Q2.xlsx", "LCA_Disclosure_Data_FY2022_Q3.xlsx", "LCA_Disclosure_Data_FY2022_Q4.xlsx", "LCA_Disclosure_Data_FY2023_Q1.xlsx", "LCA_Disclosure_Data_FY2023_Q2.xlsx", "LCA_Disclosure_Data_FY2023_Q3.xlsx", "LCA_Disclosure_Data_FY2023_Q4.xlsx", "LCA_Disclosure_Data_FY2024_Q1.xlsx", "LCA_Disclosure_Data_FY2024_Q2.xlsx", "LCA_Disclosure_Data_FY2024_Q3.xlsx", "LCA_Disclosure_Data_FY2024_Q4.xlsx", "LCA_Disclosure_Data_FY2025_Q1.xlsx", "LCA_Disclosure_Data_FY2025_Q2.xlsx", "LCA_Disclosure_Data_FY2025_Q3.xlsx", "LCA_Disclosure_Data_FY2025_Q4.xlsx", "LCA_Disclosure_Data_FY2026_Q3.xlsx"],
+    "min_n_publish": 30
+  },
+  "built_at": "2026-11-07 17:28 CST",
+  "market": {
+    "indeed_postings_last_month": "2026-10",
+    "indeed_wages_last_month": "2026-09",
+    "jolts_last_month": "2026-09",
+    "cpi_last_month": "2026-09",
+    "cpi_base_year": 2025
+  }
+}

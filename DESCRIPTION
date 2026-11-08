@@ -1,0 +1,27 @@
+Type: project
+Package: paytrends
+Title: U.S. Pay & Hiring Trends Dashboard
+Version: 2.0.0
+Authors@R: person("Jiaqi", "He", email = "Scarlett_hjq@outlook.com", role = c("aut", "cre"))
+Description: Shiny dashboard and reproducible data pipeline tracking offered
+    salaries by role, seniority, employer and location (U.S. DOL LCA
+    disclosure data, 2019 to now) alongside market-wide hiring demand
+    (Indeed Hiring Lab, BLS JOLTS).
+Depends: R (>= 4.4)
+Imports:
+    bslib,
+    cli,
+    data.table,
+    htmltools,
+    jsonlite,
+    markdown,
+    nanoparquet,
+    plotly,
+    reactable,
+    readxl,
+    shiny,
+    stringi
+Suggests:
+    testthat (>= 3.0.0),
+    withr
+Encoding: UTF-8

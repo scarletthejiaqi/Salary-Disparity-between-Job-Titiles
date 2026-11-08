@@ -1,0 +1,11 @@
+level_id,level_name,level_order,basis
+entry,Entry / Junior,1,title
+mid,Mid / Unspecified,2,title
+senior,Senior,3,title
+lead,Lead / Staff / Principal,4,title
+manager,Manager,5,title
+director,Director & Executive,6,title
+dol_1,Level I (entry),1,dol
+dol_2,Level II (qualified),2,dol
+dol_3,Level III (experienced),3,dol
+dol_4,Level IV (fully competent),4,dol

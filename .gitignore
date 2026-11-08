@@ -1,0 +1,17 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rcheck/
+
+# Raw downloads and intermediate pipeline files (large, reproducible via `make data`)
+data-raw/
+
+# Deployment / OS artefacts
+rsconnect/
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.pyc

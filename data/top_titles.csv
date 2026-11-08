@@ -1,0 +1,781 @@
+family_id,role_id,title,n,share,p50
+finance,accountant,Accountants And Auditors,17414,0.261,97000
+finance,accountant,Accountant,5749,0.0862,65000
+finance,accountant,Staff Accountant,2813,0.0422,62067
+finance,accountant,Tax Consultant,1848,0.0277,59634
+finance,accountant,Tax Senior,1716,0.0257,80475
+finance,accountant,Senior Accountant,1638,0.0246,85000
+finance,accountant,Audit & Assurance Assistant,1547,0.0232,57366
+finance,accountant,Senior Associate,1521,0.0228,93500
+finance,accountant,Tax Manager,1206,0.0181,115690
+finance,accountant,Manager,1090,0.0163,129850
+finance,accountant,Associate,1062,0.0159,78000
+finance,accountant,Audit & Assurance Senior,938,0.0141,76523
+finance,accountant,Accounting Manager,710,0.0106,1e+05
+finance,accountant,Audit & Assurance In Charge,690,0.0103,77594
+finance,accountant,Audit & Assurance Senior Assistant,672,0.0101,59532
+healthcare,allied_health,Physical Therapist,10149,0.2125,80080
+healthcare,allied_health,Medical Technologist,5692,0.1192,58240
+healthcare,allied_health,Occupational Therapist,2760,0.0578,72114
+healthcare,allied_health,Clinical Laboratory Scientist,2366,0.0495,56576
+healthcare,allied_health,Speech Language Pathologist,1973,0.0413,87360
+healthcare,allied_health,Medical Laboratory Scientist,1226,0.0257,63794
+healthcare,allied_health,Pharmacist,1038,0.0217,120000
+healthcare,allied_health,Exercise Physiologist,991,0.0208,57000
+healthcare,allied_health,Veterinarian,828,0.0173,140000
+healthcare,allied_health,Medical Laboratory Scientist II,637,0.0133,67454
+healthcare,allied_health,Associate Veterinarian,559,0.0117,125000
+healthcare,allied_health,Optometrist,507,0.0106,130000
+healthcare,allied_health,House Staff Resident,410,0.0086,74415
+healthcare,allied_health,House Staff Fellow,385,0.0081,86646
+healthcare,allied_health,Medical Technologist II,354,0.0074,65291
+design,architect_building,Architectural Designer,1706,0.1397,69752
+design,architect_building,Landscape Designer,859,0.0703,65000
+design,architect_building,Architect,839,0.0687,75000
+design,architect_building,Designer,801,0.0656,69000
+design,architect_building,Architectural Designer I,307,0.0251,70000
+design,architect_building,Project Architect,258,0.0211,87360
+design,architect_building,Landscape Architect,245,0.0201,66498
+design,architect_building,Intern Architect,245,0.0201,64000
+design,architect_building,Project Designer,183,0.015,74999
+design,architect_building,Architect Non Licensed,141,0.0115,73000
+design,architect_building,Architectural Designer II,138,0.0113,82000
+design,architect_building,Designer II,123,0.0101,70000
+design,architect_building,Junior Designer,117,0.0096,61194
+design,architect_building,Job Captain,116,0.0095,80000
+design,architect_building,Designer I,111,0.0091,64480
+business,business_analyst,Business Analyst,16314,0.4019,85301
+business,business_analyst,Senior Business Analyst,5148,0.1268,101379
+business,business_analyst,Business Analyst II,1942,0.0478,1e+05
+business,business_analyst,It Business Analyst,853,0.021,86000
+business,business_analyst,Technical Business Analyst,748,0.0184,91562
+business,business_analyst,Business Analyst I,700,0.0172,77150
+business,business_analyst,Business Analyst 3,675,0.0166,115000
+business,business_analyst,Advanced Business Analyst,526,0.013,96533
+business,business_analyst,Lead Business Analyst,525,0.0129,110000
+business,business_analyst,Business Analyst 2,520,0.0128,90938
+business,business_analyst,Business Analyst III,506,0.0125,118200
+business,business_analyst,Senior Business Analyst Management Consultant,343,0.0084,112000
+business,business_analyst,Business Analyst Management Consultant,273,0.0067,90000
+business,business_analyst,Salesforce Business Analyst,255,0.0063,95000
+business,business_analyst,Senior It Business Analyst,224,0.0055,104270
+engineering,civil,Project Engineer,4792,0.11,80000
+engineering,civil,Civil Engineer,3680,0.0845,71198
+engineering,civil,Structural Engineer,1541,0.0354,82264
+engineering,civil,Project Manager,1388,0.0319,108368
+engineering,civil,Construction Manager,689,0.0158,94078
+engineering,civil,Staff Engineer,689,0.0158,70678
+engineering,civil,Assistant Project Manager,631,0.0145,90100
+engineering,civil,Field Engineer,621,0.0143,72800
+engineering,civil,Senior Project Engineer,617,0.0142,96138
+engineering,civil,Engineer,532,0.0122,78021
+engineering,civil,Design Engineer,502,0.0115,77074
+engineering,civil,Environmental Engineer,471,0.0108,78000
+engineering,civil,Geotechnical Engineer,416,0.0095,82154
+engineering,civil,Engineer II,336,0.0077,82936
+engineering,civil,Engineer I,322,0.0074,73000
+business,consultant,Management Analyst,2759,0.0759,81900
+business,consultant,Consultant,2560,0.0705,165000
+business,consultant,Management Analysts,1908,0.0525,132700
+business,consultant,Principal Consultant US,1809,0.0498,125146
+business,consultant,Manager Management Analysts,899,0.0247,104021
+business,consultant,Manager,866,0.0238,164736
+business,consultant,Associate,799,0.022,110000
+business,consultant,Senior Consultant,699,0.0192,111800
+business,consultant,Associate Management Consultant,687,0.0189,165000
+business,consultant,Senior Associate Management Analysts,628,0.0173,81141
+business,consultant,Advisory Senior Consultant,513,0.0141,81370
+business,consultant,Engagement Manager Management Consultant,494,0.0136,176500
+business,consultant,Advisory Consultant,443,0.0122,61235
+business,consultant,Business Systems Analyst,428,0.0118,85000
+business,consultant,Senior Manager Management Analysts,377,0.0104,128794
+healthcare,counselor_social,Direct Care Professional,1041,0.0815,31200
+healthcare,counselor_social,Rehabilitation Counselor,410,0.0321,43680
+healthcare,counselor_social,Direct Support Professional,385,0.0302,38605
+healthcare,counselor_social,Social Worker,346,0.0271,60000
+healthcare,counselor_social,Habilitation Counselor,316,0.0247,38605
+healthcare,counselor_social,Habilitation Specialist,274,0.0215,35360
+healthcare,counselor_social,Youth Development Professional,218,0.0171,43722
+healthcare,counselor_social,Mental Health Counselor,214,0.0168,58120
+healthcare,counselor_social,Clinician,211,0.0165,53820
+healthcare,counselor_social,Pastor,186,0.0146,63398
+healthcare,counselor_social,In Home Therapy Clinician,139,0.0109,50000
+healthcare,counselor_social,Health Educator,127,0.0099,54974
+healthcare,counselor_social,Case Manager,106,0.0083,48000
+healthcare,counselor_social,Assistant Program Manager,99,0.0078,42890
+healthcare,counselor_social,Therapist,98,0.0077,55411
+data_ai,data_analyst,Data Analyst,12183,0.1123,85000
+data_ai,data_analyst,Business Intelligence Analyst,5331,0.0491,86965
+data_ai,data_analyst,Senior Data Analyst,4648,0.0428,102000
+data_ai,data_analyst,Business Intelligence Engineer II,3561,0.0328,125000
+data_ai,data_analyst,Business Intelligence Developer,1596,0.0147,94037
+data_ai,data_analyst,BI Developer,1572,0.0145,94725
+data_ai,data_analyst,Business Intelligence Engineer I,1177,0.0108,100900
+data_ai,data_analyst,Business Intelligence Engineer III,992,0.0091,145000
+data_ai,data_analyst,Business Data Analyst,829,0.0076,85280
+data_ai,data_analyst,Senior Business Intelligence Analyst,810,0.0075,110000
+data_ai,data_analyst,Tableau Developer,744,0.0069,93600
+data_ai,data_analyst,Data Analyst 2,649,0.006,87046
+data_ai,data_analyst,Senior Business Intelligence Developer,630,0.0058,115583
+data_ai,data_analyst,Power BI Developer,618,0.0057,94328
+data_ai,data_analyst,Principal Data Analyst,566,0.0052,102274
+data_ai,data_engineer,Data Engineer,22357,0.2392,103000
+data_ai,data_engineer,Senior Data Engineer,9279,0.0993,132654
+data_ai,data_engineer,Data Engineer II,3627,0.0388,138861
+data_ai,data_engineer,ETL Developer,3033,0.0325,94000
+data_ai,data_engineer,Data Warehouse Specialist,2207,0.0236,73798
+data_ai,data_engineer,Data Engineer III,1903,0.0204,140910
+data_ai,data_engineer,Data Architect,1608,0.0172,118476
+data_ai,data_engineer,Lead Data Engineer,1554,0.0166,140000
+data_ai,data_engineer,Data Engineer I,1507,0.0161,120000
+data_ai,data_engineer,Big Data Engineer,1187,0.0127,97594
+data_ai,data_engineer,Staff Data Engineer,922,0.0099,164530
+data_ai,data_engineer,Principal Data Engineer,897,0.0096,141548
+data_ai,data_engineer,Senior ETL Developer,891,0.0095,108000
+data_ai,data_engineer,Informatica Developer,730,0.0078,92133
+data_ai,data_engineer,Big Data Developer,720,0.0077,94037
+data_ai,data_scientist,Data Scientist,21202,0.3138,115000
+data_ai,data_scientist,Senior Data Scientist,7569,0.112,145000
+data_ai,data_scientist,Data Scientist II,2891,0.0428,136000
+data_ai,data_scientist,Data Scientist I,1269,0.0188,101754
+data_ai,data_scientist,Data Scientist III,1074,0.0159,144075
+data_ai,data_scientist,Lead Data Scientist,1026,0.0152,150000
+data_ai,data_scientist,Staff Data Scientist,863,0.0128,172170
+data_ai,data_scientist,Data Science,852,0.0126,164000
+data_ai,data_scientist,Manager Data Science,731,0.0108,134165
+data_ai,data_scientist,Associate Data Scientist,702,0.0104,94064
+data_ai,data_scientist,Senior Manager Data Science,623,0.0092,156112
+data_ai,data_scientist,Principal Data Scientist,614,0.0091,171334
+data_ai,data_scientist,Data Science Manager,521,0.0077,183150
+data_ai,data_scientist,Data Scientist Analytics,517,0.0077,162000
+data_ai,data_scientist,Data Science Engineer,475,0.007,118955
+it,dba,Database Administrator,9485,0.2583,86640
+it,dba,Database Administrators,5571,0.1517,127720
+it,dba,Senior Sql Database Administrator,3123,0.0851,79768
+it,dba,Senior Database Administrator,2047,0.0558,113400
+it,dba,Oracle Database Administrator,814,0.0222,90000
+it,dba,Database Engineer,544,0.0148,93113
+it,dba,Database Analyst,484,0.0132,83512
+it,dba,Database Administrator DBA,325,0.0089,83908
+it,dba,Oracle DBA,278,0.0076,90230
+it,dba,Sql Database Administrator,274,0.0075,90011
+it,dba,Database Administrator II,261,0.0071,1e+05
+it,dba,Senior Database Engineer,253,0.0069,125376
+it,dba,Principal Database Administrator,208,0.0057,114005
+it,dba,Manager Database Administrators,208,0.0057,107068
+it,dba,Database Administrator III,207,0.0056,112428
+design,designer,Graphic Designer,1488,0.0692,56000
+design,designer,Designer,1245,0.0579,75000
+design,designer,Design Engineer,1091,0.0507,70000
+design,designer,Interior Designer,902,0.0419,61000
+design,designer,Industrial Designer,678,0.0315,69691
+design,designer,Product Designer,584,0.0271,115000
+design,designer,Senior Designer,512,0.0238,1e+05
+design,designer,Creative Director,358,0.0166,147000
+design,designer,Art Director,308,0.0143,90760
+design,designer,Product Design,286,0.0133,163950
+design,designer,Technical Designer,221,0.0103,74755
+design,designer,Senior Product Designer,198,0.0092,149573
+design,designer,Fashion Designer,190,0.0088,55000
+design,designer,Architectural Designer,163,0.0076,62379
+design,designer,Junior Designer,154,0.0072,57750
+software,devops,Devops Engineer,12075,0.2126,97032
+software,devops,Senior Devops Engineer,2832,0.0499,129180
+software,devops,Site Reliability Engineer,2266,0.0399,120000
+software,devops,Cloud Engineer,2009,0.0354,99549
+software,devops,Senior Site Reliability Engineer,1229,0.0216,145822
+software,devops,Infrastructure Engineer,1150,0.0202,103000
+software,devops,Software Devops Engineer,1092,0.0192,94100
+software,devops,Production Engineer,1017,0.0179,181300
+software,devops,Senior Cloud Engineer,895,0.0158,121200
+software,devops,Senior Infrastructure Engineer,522,0.0092,129330
+software,devops,Cloud Devops Engineer,482,0.0085,97000
+software,devops,AWS Devops Engineer,398,0.007,94037
+software,devops,Platform Engineer,391,0.0069,118000
+software,devops,Senior Platform Engineer,384,0.0068,131541
+software,devops,Cloud Support Engineer I,339,0.006,82600
+engineering,electrical,Electrical Engineer,5572,0.0498,86299
+engineering,electrical,Component Design Engineer,5430,0.0485,115086
+engineering,electrical,Hardware Engineer,1833,0.0164,127600
+engineering,electrical,Rf Engineer,1390,0.0124,89002
+engineering,electrical,Product Engineer,1237,0.0111,103147
+engineering,electrical,Senior Engineer,1120,0.01,124405
+engineering,electrical,Design Verification Engineer,1009,0.009,148054
+engineering,electrical,Senior Electrical Engineer,969,0.0087,120454
+engineering,electrical,Silicon Engineer,930,0.0083,160000
+engineering,electrical,Design Engineer,901,0.0081,109643
+engineering,electrical,Asic Design Engineer,862,0.0077,149256
+engineering,electrical,Senior Silicon Design Engineer,860,0.0077,126322
+engineering,electrical,Staff Engineer,856,0.0077,151046
+engineering,electrical,Mts Silicon Design Engineer,833,0.0074,150000
+engineering,electrical,Physical Design Engineer,816,0.0073,150000
+software,embedded,Embedded Software Engineer,1410,0.1503,97032
+software,embedded,Firmware Engineer,984,0.1049,113875
+software,embedded,Software Development Engineer Firmware,476,0.0508,173297
+software,embedded,Senior Embedded Software Engineer,466,0.0497,130000
+software,embedded,Senior Firmware Engineer,343,0.0366,135000
+software,embedded,Embedded Software Developer,267,0.0285,81000
+software,embedded,Embedded Engineer,201,0.0214,94500
+software,embedded,Embedded Systems Engineer,174,0.0186,90896
+software,embedded,Staff Firmware Engineer,100,0.0107,168626
+software,embedded,R & D Engineer Firmware,91,0.0097,142002
+software,embedded,Embedded Controls Engineer,90,0.0096,71334
+software,embedded,Embedded Systems Design Engineer,84,0.009,79706
+software,embedded,Embedded Firmware Engineer,79,0.0084,93600
+software,embedded,Staff Embedded Software Engineer,72,0.0077,178545
+software,embedded,Principal Engineer Firmware Engineering,68,0.0073,145290
+engineering,eng_manager,Engineering Manager,1415,0.1264,162885
+engineering,eng_manager,Manager Engineering,237,0.0212,171330
+engineering,eng_manager,Director Of Engineering,140,0.0125,191526
+engineering,eng_manager,Senior Engineering Manager,114,0.0102,176799
+engineering,eng_manager,Senior Manager Engineering,112,0.01,191158
+engineering,eng_manager,Director Engineering,70,0.0063,199000
+engineering,eng_manager,Technical Manager,49,0.0044,144248
+engineering,eng_manager,Soc Design Engineer,46,0.0041,182551
+engineering,eng_manager,Quality Manager,45,0.004,117187
+engineering,eng_manager,Engineering Director,40,0.0036,180095
+engineering,eng_manager,Engineering Manager I,37,0.0033,136219
+engineering,eng_manager,Vice President Of Engineering,35,0.0031,210000
+engineering,eng_manager,Principal Engineer,35,0.0031,178443
+engineering,eng_manager,Design Verification Manager,31,0.0028,219300
+engineering,eng_manager,Manager Hardware Engineering,30,0.0027,213512
+finance,financial_analyst,Associate,6220,0.0781,150000
+finance,financial_analyst,Financial Analyst,5189,0.0651,80000
+finance,financial_analyst,Analyst,5056,0.0635,90000
+finance,financial_analyst,Financial And Investment Analysts,3523,0.0442,159000
+finance,financial_analyst,Vice President,3163,0.0397,182000
+finance,financial_analyst,Financial Analysts,2209,0.0277,127434
+finance,financial_analyst,Senior Financial Analyst,1305,0.0164,99445
+finance,financial_analyst,Financial Analyst III,1010,0.0127,120600
+finance,financial_analyst,Senior Associate,955,0.012,143832
+finance,financial_analyst,Financial Analyst II,880,0.011,90000
+finance,financial_analyst,Investment Analyst,846,0.0106,105000
+finance,financial_analyst,Director,656,0.0082,2e+05
+finance,financial_analyst,Finance Manager,598,0.0075,125000
+finance,financial_analyst,Budget Analyst,575,0.0072,71406
+finance,financial_analyst,Research Analyst,540,0.0068,148678
+software,frontend,UI Developer,2386,0.1372,92082
+software,frontend,Web Developer,1818,0.1045,78291
+software,frontend,Front End Developer,1032,0.0593,94435
+software,frontend,Front End Engineer II,878,0.0505,160000
+software,frontend,Front End Engineer,521,0.03,130000
+software,frontend,Front End Engineer I,464,0.0267,125682
+software,frontend,Web Application Developer,412,0.0237,90000
+software,frontend,Angular Developer,335,0.0193,94037
+software,frontend,Senior Web Developer,326,0.0187,109778
+software,frontend,React Developer,306,0.0176,92529
+software,frontend,Senior UI Developer,289,0.0166,105997
+software,frontend,Senior Front End Developer,263,0.0151,113000
+software,frontend,Technology Analyst Dx US,221,0.0127,66186
+software,frontend,Frontend Developer,204,0.0117,94500
+software,frontend,Front End Engineer III,195,0.0112,183000
+business,general_mgmt,Chief Executive Officer,1345,0.0743,210000
+business,general_mgmt,General Manager,771,0.0426,1e+05
+business,general_mgmt,Chief Operating Officer,581,0.0321,2e+05
+business,general_mgmt,Director Of Operations,298,0.0165,117332
+business,general_mgmt,President,238,0.0132,215000
+business,general_mgmt,Chief Financial Officer,222,0.0123,250000
+business,general_mgmt,Executive Director,184,0.0102,167400
+business,general_mgmt,Vice President,176,0.0097,191415
+business,general_mgmt,Managing Director,172,0.0095,177500
+business,general_mgmt,Chief Of Staff,160,0.0088,170000
+business,general_mgmt,Chief Technology Officer,141,0.0078,198349
+business,general_mgmt,Regulatory Affairs Manager,105,0.0058,120000
+business,general_mgmt,Manager Regulatory Affairs,102,0.0056,131436
+business,general_mgmt,Director,96,0.0053,123100
+business,general_mgmt,Business Manager,94,0.0052,90000
+healthcare,health_admin,Nurse Manager,90,0.0265,99486
+healthcare,health_admin,Medical And Health Services Manager,59,0.0173,88691
+healthcare,health_admin,Veterinary Director,57,0.0168,80000
+healthcare,health_admin,Pharmacy Services Manager,55,0.0162,89045
+healthcare,health_admin,Director Of Rehab,37,0.0109,88920
+healthcare,health_admin,Clinical Director,36,0.0106,102594
+healthcare,health_admin,Registered Nurse Manager,36,0.0106,69326
+healthcare,health_admin,Director Of Rehabilitation,32,0.0094,121980
+healthcare,health_admin,Clinic Director,31,0.0091,92662
+healthcare,health_admin,Assistant Clinical Manager,30,0.0088,92373
+healthcare,health_admin,Assistant Nurse Manager,30,0.0088,90137
+healthcare,health_admin,Medical Director,29,0.0085,150000
+healthcare,health_admin,Dental Service Manager,28,0.0082,73500
+healthcare,health_admin,Clinic Manager,27,0.0079,87000
+healthcare,health_admin,Care Manager,27,0.0079,99486
+legal_hr,hr,Human Resources Specialist,543,0.0445,60000
+legal_hr,hr,Technical Recruiter,532,0.0436,66125
+legal_hr,hr,HR Specialist,347,0.0284,63814
+legal_hr,hr,Human Resources Specialists,281,0.023,115000
+legal_hr,hr,Training And Development Specialist,242,0.0198,60216
+legal_hr,hr,Human Resources Manager,191,0.0156,100280
+legal_hr,hr,Human Resource Specialist,165,0.0135,63800
+legal_hr,hr,Senior Technical Recruiter,133,0.0109,75000
+legal_hr,hr,HR Manager,128,0.0105,107904
+legal_hr,hr,HR Generalist,113,0.0093,74000
+legal_hr,hr,HR Business Partner,112,0.0092,125045
+legal_hr,hr,Training Specialist,110,0.009,62088
+legal_hr,hr,Technical Trainer,99,0.0081,63814
+legal_hr,hr,It Training And Development Specialist,79,0.0065,62400
+legal_hr,hr,Recruiter,77,0.0063,80882
+engineering,industrial_mfg,Industrial Engineer,3401,0.0588,81037
+engineering,industrial_mfg,Manufacturing Engineer,3116,0.0538,85000
+engineering,industrial_mfg,Quality Engineer,2207,0.0381,83741
+engineering,industrial_mfg,Validation Engineer,2054,0.0355,91770
+engineering,industrial_mfg,Process Engineer,1436,0.0248,87000
+engineering,industrial_mfg,Senior Manufacturing Engineer,688,0.0119,120000
+engineering,industrial_mfg,Senior Quality Engineer,582,0.0101,106082
+engineering,industrial_mfg,Supplier Quality Engineer,485,0.0084,94400
+engineering,industrial_mfg,Senior Process Engineer,446,0.0077,115936
+engineering,industrial_mfg,Project Engineer,416,0.0072,85750
+engineering,industrial_mfg,Product Designer,378,0.0065,133200
+engineering,industrial_mfg,Senior Industrial Engineer,374,0.0065,110000
+engineering,industrial_mfg,Quality Reliability Engineer,352,0.0061,99986
+engineering,industrial_mfg,Industrial Engineers,339,0.0059,116100
+engineering,industrial_mfg,Quality Manager,313,0.0054,110000
+it,it_architect,Architect,26497,0.1474,76606
+it,it_architect,Manager Computer Systems Engineers / Architects,12306,0.0684,107099
+it,it_architect,Senior Associate Computer Systems Engineers / Architects,7194,0.04,81266
+it,it_architect,Technical Architect,5012,0.0279,114026
+it,it_architect,Solution Architect,4954,0.0276,120000
+it,it_architect,Solutions Architect,3845,0.0214,120000
+it,it_architect,Software Architect,3699,0.0206,118000
+it,it_architect,Senior Manager Computer Systems Engineers / Architects,3541,0.0197,130562
+it,it_architect,Systems Engineer,3347,0.0186,84000
+it,it_architect,Technology Architect US,2836,0.0158,100999
+it,it_architect,System Architect III,2263,0.0126,105300
+it,it_architect,Computer Systems Engineer,2211,0.0123,78478
+it,it_architect,Application Architect,2037,0.0113,113759
+it,it_architect,Senior Associate Computer Systems Engineers,1666,0.0093,76856
+it,it_architect,Solutions Architect III,1569,0.0087,170000
+it,it_manager,Manager,4133,0.1117,160326
+it,it_manager,Computer And Information Systems Managers,3356,0.0907,212053
+it,it_manager,Senior Manager,1798,0.0486,201000
+it,it_manager,Specialist Master,1133,0.0306,169000
+it,it_manager,Director,606,0.0164,220000
+it,it_manager,Chief Technology Officer,529,0.0143,2e+05
+it,it_manager,Team Leader,440,0.0119,182957
+it,it_manager,Vice President,386,0.0104,180000
+it,it_manager,It Manager,335,0.0091,139901
+it,it_manager,Specialist Leader,331,0.0089,210000
+it,it_manager,Computer And Information Systems Manager,300,0.0081,166400
+it,it_manager,Advisory Senior Manager,288,0.0078,173000
+it,it_manager,Solution Manager,247,0.0067,139152
+it,it_manager,Advisory Manager,219,0.0059,143000
+it,it_manager,Manager It,180,0.0049,144926
+it,it_other,Technology Lead US Practitioner,2903,0.1162,74443
+it,it_other,Technology Lead US,2896,0.1159,74027
+it,it_other,Consultant US,1179,0.0472,74027
+it,it_other,Technical Lead,1113,0.0445,79912
+it,it_other,Technology Analyst US,856,0.0343,74027
+it,it_other,Systems Engineer,606,0.0243,81016
+it,it_other,Computer Specialist / System Support And Development Admin 2,581,0.0233,78900
+it,it_other,Computer Systems Engineer,470,0.0188,78614
+it,it_other,Computer Specialist / System Support And Development Admin 3,446,0.0178,96325
+it,it_other,Associate Consultant US,331,0.0132,74027
+it,it_other,Technical Manager,313,0.0125,100651
+it,it_other,Computer Systems Engineer 2,267,0.0107,91425
+it,it_other,Consultant,249,0.01,78520
+it,it_other,System Engineer,195,0.0078,75000
+it,it_other,Quality Analyst,189,0.0076,75000
+legal_hr,legal,Associate,3995,0.2194,225000
+legal_hr,legal,Associate Attorney,2559,0.1406,190000
+legal_hr,legal,Law Clerk,2531,0.139,1e+05
+legal_hr,legal,Attorney,1201,0.066,190000
+legal_hr,legal,Lawyer,257,0.0141,120000
+legal_hr,legal,Paralegal,257,0.0141,60424
+legal_hr,legal,Legal Consultant,223,0.0122,190000
+legal_hr,legal,Legal Counsel,196,0.0108,155000
+legal_hr,legal,Law Clerk / Associate,191,0.0105,225000
+legal_hr,legal,Partner,167,0.0092,420000
+legal_hr,legal,Senior Associate,153,0.0084,365000
+legal_hr,legal,Counsel,153,0.0084,325000
+legal_hr,legal,Staff Attorney,125,0.0069,90000
+legal_hr,legal,Corporate Counsel,121,0.0066,174000
+legal_hr,legal,Corporate Associate,112,0.0062,240000
+science,life_scientist,Research Associate,6191,0.057,63300
+science,life_scientist,Research Fellow,4882,0.0449,67000
+science,life_scientist,Postdoctoral Fellow,4282,0.0394,59000
+science,life_scientist,Research Scientist,3727,0.0343,69525
+science,life_scientist,Postdoctoral Associate,3353,0.0309,60237
+science,life_scientist,Postdoctoral Scholar,2752,0.0253,62232
+science,life_scientist,Postdoctoral Research Associate,2677,0.0246,55339
+science,life_scientist,Postdoctoral Research Fellow,2046,0.0188,57852
+science,life_scientist,Staff Scientist,1988,0.0183,72186
+science,life_scientist,Assistant Professor,1632,0.015,110000
+science,life_scientist,Scientist,1583,0.0146,92057
+science,life_scientist,Instructor,1492,0.0137,73447
+science,life_scientist,Associate Research Scientist,1492,0.0137,70000
+science,life_scientist,Senior Scientist,1286,0.0118,105000
+science,life_scientist,Senior Research Associate,1141,0.0105,75000
+marketing_sales,marketing,Market Research Analyst,3149,0.0629,62421
+marketing_sales,marketing,Marketing Specialist,1877,0.0375,62399
+marketing_sales,marketing,Marketing Manager,1219,0.0243,116917
+marketing_sales,marketing,Product Marketing Manager,965,0.0193,140000
+marketing_sales,marketing,Public Relations Specialist,906,0.0181,60000
+marketing_sales,marketing,Marketing Analyst,761,0.0152,64480
+marketing_sales,marketing,Technical Writer,335,0.0067,79000
+marketing_sales,marketing,Market Analyst,311,0.0062,60174
+marketing_sales,marketing,Digital Marketing Specialist,300,0.006,65000
+marketing_sales,marketing,Senior Product Marketing Manager,285,0.0057,165000
+marketing_sales,marketing,Technical Marketing Engineer,280,0.0056,128814
+marketing_sales,marketing,Reporter,239,0.0048,59426
+marketing_sales,marketing,Marketing Director,219,0.0044,125000
+marketing_sales,marketing,Communications Specialist,212,0.0042,57283
+marketing_sales,marketing,Product Marketing Engineer,209,0.0042,125819
+engineering,mechanical,Mechanical Engineer,9439,0.1161,82555
+engineering,mechanical,Mechanical Design Engineer,2330,0.0287,84000
+engineering,mechanical,Design Engineer,2102,0.0259,80086
+engineering,mechanical,Project Engineer,1770,0.0218,84271
+engineering,mechanical,Product Engineer,1141,0.014,83949
+engineering,mechanical,Senior Mechanical Engineer,1032,0.0127,118758
+engineering,mechanical,Quality Engineer,747,0.0092,80309
+engineering,mechanical,Manufacturing Engineer,639,0.0079,81000
+engineering,mechanical,Mechanical Engineers II,593,0.0073,86902
+engineering,mechanical,Mechanical Engineer II,566,0.007,86850
+engineering,mechanical,Engineer,561,0.0069,77792
+engineering,mechanical,Senior Engineer,539,0.0066,1e+05
+engineering,mechanical,Process Engineer,523,0.0064,83200
+engineering,mechanical,Robotics Engineer,470,0.0058,100084
+engineering,mechanical,Product Design Engineer,460,0.0057,140050
+data_ai,ml_engineer,Machine Learning Engineer,4861,0.1403,160000
+data_ai,ml_engineer,Applied Scientist II,3439,0.0993,172078
+data_ai,ml_engineer,Senior Machine Learning Engineer,1778,0.0513,180000
+data_ai,ml_engineer,Data And Applied Scientist,1641,0.0474,143000
+data_ai,ml_engineer,Applied Scientist I,1066,0.0308,153000
+data_ai,ml_engineer,Applied Sciences,973,0.0281,173000
+data_ai,ml_engineer,Applied Scientist III,911,0.0263,198141
+data_ai,ml_engineer,Software Engineer Machine Learning,896,0.0259,161637
+data_ai,ml_engineer,AI Engineer,644,0.0186,120588
+data_ai,ml_engineer,Machine Learning,570,0.0165,190486
+data_ai,ml_engineer,Senior Software Engineer Machine Learning,536,0.0155,170000
+data_ai,ml_engineer,Applied Scientist,429,0.0124,163322
+data_ai,ml_engineer,Machine Learning Engineer II,407,0.0118,163000
+data_ai,ml_engineer,Staff Machine Learning Engineer,401,0.0116,199534
+data_ai,ml_engineer,Machine Learning Scientist,339,0.0098,150000
+software,mobile,Android Developer,752,0.1019,96616
+software,mobile,iOS Developer,738,0.1,97760
+software,mobile,Mobile Developer,353,0.0478,94307
+software,mobile,Android Engineer,243,0.0329,130000
+software,mobile,Mobile Application Developer,220,0.0298,93652
+software,mobile,Senior Android Developer,192,0.026,125000
+software,mobile,Senior Android Engineer,181,0.0245,167500
+software,mobile,Senior iOS Developer,180,0.0244,115000
+software,mobile,Senior Mobile Developer,179,0.0242,116709
+software,mobile,Senior iOS Engineer,151,0.0205,154500
+software,mobile,iOS Engineer,137,0.0186,125000
+software,mobile,Software Engineer Android,115,0.0156,140000
+software,mobile,Senior Mobile Engineer,113,0.0153,160000
+software,mobile,Mobile Engineer,112,0.0152,128648
+software,mobile,Senior Software Engineer iOS,109,0.0148,162000
+it,network_sysadmin,Network Engineer,7984,0.1288,89440
+it,network_sysadmin,System Administrator,3368,0.0543,79206
+it,network_sysadmin,Systems Administrator,1793,0.0289,84282
+it,network_sysadmin,Senior Network Engineer,1666,0.0269,120000
+it,network_sysadmin,Technical Support Engineer,1662,0.0268,101962
+it,network_sysadmin,Network Administrator,1464,0.0236,82598
+it,network_sysadmin,Support Engineer I External,1051,0.017,98200
+it,network_sysadmin,Network And Computer Systems Administrator,868,0.014,84064
+it,network_sysadmin,Support Engineer II External,808,0.013,120005
+it,network_sysadmin,Support Engineer,716,0.0116,94800
+it,network_sysadmin,Infrastructure Consultant 2,649,0.0105,85634
+it,network_sysadmin,Senior Technical Support Engineer,582,0.0094,108925
+it,network_sysadmin,Manager Network And Computer Systems Administrators,532,0.0086,101046
+it,network_sysadmin,Senior Systems Administrator,529,0.0085,104083
+it,network_sysadmin,Network Administrator III,523,0.0084,98030
+healthcare,nurse,Registered Nurse,597,0.1287,74880
+healthcare,nurse,Nurse Practitioner,302,0.0651,116896
+healthcare,nurse,Clinical Nurse III,100,0.0216,69826
+healthcare,nurse,Registered Nurse III,97,0.0209,83075
+healthcare,nurse,Glide Team Registered Nurse 2 Inpatient,89,0.0192,91582
+healthcare,nurse,RN System Resource,78,0.0168,105414
+healthcare,nurse,Registered Nurse IV,77,0.0166,87360
+healthcare,nurse,Critical Care Nurse,64,0.0138,78520
+healthcare,nurse,Registered Nurse Float Pool,52,0.0112,66560
+healthcare,nurse,Registered Nurse Emergency Department,52,0.0112,69878
+healthcare,nurse,Flex Float Registered Nurse,46,0.0099,81120
+healthcare,nurse,Charge Nurse,44,0.0095,83200
+healthcare,nurse,Clinical Support Float RN,44,0.0095,72738
+healthcare,nurse,Registered Nurse Intensive Care Unit,43,0.0093,76752
+healthcare,nurse,RN Clin III Acute Care,41,0.0088,75192
+business,operations,Operations Manager,1300,0.0275,83242
+business,operations,Cost Estimator,927,0.0196,70000
+business,operations,Pathways Operations Manager Mba,831,0.0176,142800
+business,operations,Regulatory Affairs Specialist,829,0.0176,74880
+business,operations,Supply Chain Analyst,797,0.0169,71000
+business,operations,Logistics Analyst,697,0.0148,65000
+business,operations,Logisticians,634,0.0134,163072
+business,operations,Estimator,620,0.0131,79810
+business,operations,Supply Chain Manager III,523,0.0111,135200
+business,operations,Supply Chain Manager II,515,0.0109,107000
+business,operations,Supply Chain Manager,445,0.0094,1e+05
+business,operations,Business Operations Specialist,376,0.008,64250
+business,operations,Senior Regulatory Affairs Specialist,352,0.0075,1e+05
+business,operations,Strategic Sourcing Manager,339,0.0072,148200
+business,operations,Operations Engineer II,324,0.0069,97000
+other,other,Quality Control Supervisor,483,0.0457,49338
+other,other,Airline Pilot,337,0.0319,202072
+other,other,First Officer,308,0.0292,118924
+other,other,Producer,199,0.0188,87000
+other,other,Pilot,191,0.0181,107162
+other,other,Captain,178,0.0168,312406
+other,other,Aircraft Mechanic,153,0.0145,58240
+other,other,Pilot First Officer,145,0.0137,187200
+other,other,Agricultural Inspector,120,0.0114,33779
+other,other,First Officer Pilot,104,0.0098,80267
+other,other,Executive Chef,92,0.0087,67000
+other,other,Quality Control Inspector,83,0.0079,45000
+other,other,Aeronautical Scientific Technician,81,0.0077,54080
+other,other,Assistant Coach,63,0.006,55385
+other,other,Data Analyst,61,0.0058,55000
+engineering,other_engineering,Process Engineer,5691,0.1072,109117
+engineering,other_engineering,Validation Engineer,1796,0.0338,85000
+engineering,other_engineering,Architectural Designer,870,0.0164,60000
+engineering,other_engineering,Quality Engineer,864,0.0163,80000
+engineering,other_engineering,Postdoctoral Research Associate,577,0.0109,56971
+engineering,other_engineering,Research Scientist,526,0.0099,85180
+engineering,other_engineering,Postdoctoral Fellow,402,0.0076,58325
+engineering,other_engineering,Postdoctoral Associate,399,0.0075,61992
+engineering,other_engineering,Manufacturing Engineer,385,0.0073,72000
+engineering,other_engineering,Research Associate,385,0.0073,67787
+engineering,other_engineering,Postdoctoral Scholar,379,0.0071,61008
+engineering,other_engineering,Project Engineer,360,0.0068,81000
+engineering,other_engineering,Engineer,356,0.0067,84813
+engineering,other_engineering,Research Engineer,340,0.0064,88015
+engineering,other_engineering,Materials Engineer,336,0.0063,90000
+science,physical_scientist,Postdoctoral Research Associate,1409,0.0393,60000
+science,physical_scientist,Research Scientist,1152,0.0321,82861
+science,physical_scientist,Chemist,973,0.0271,68000
+science,physical_scientist,Research Associate,897,0.025,65520
+science,physical_scientist,Postdoctoral Fellow,831,0.0232,59771
+science,physical_scientist,Postdoctoral Associate,791,0.0221,61714
+science,physical_scientist,Postdoctoral Scholar,789,0.022,62220
+science,physical_scientist,Scientist,572,0.016,90000
+science,physical_scientist,Senior Scientist,455,0.0127,102907
+science,physical_scientist,Quality Control Chemist,321,0.009,64397
+science,physical_scientist,Assistant Research Scientist,319,0.0089,80000
+science,physical_scientist,Analytical Chemist,302,0.0084,70252
+science,physical_scientist,Quality Control Analyst,297,0.0083,60000
+science,physical_scientist,Associate Research Scientist,267,0.0074,80000
+science,physical_scientist,Postdoctoral Researcher,251,0.007,58656
+healthcare,physician,Hospitalist,4824,0.0641,256590
+healthcare,physician,Dentist,3341,0.0444,160000
+healthcare,physician,Hospitalist Physician,3284,0.0436,270000
+healthcare,physician,Physician,3280,0.0436,240000
+healthcare,physician,Assistant Professor,1953,0.0259,249500
+healthcare,physician,Family Medicine Physician,1463,0.0194,230000
+healthcare,physician,Internal Medicine Physician,1403,0.0186,225000
+healthcare,physician,Clinical Fellow,1194,0.0159,90000
+healthcare,physician,Pediatrician,1189,0.0158,208000
+healthcare,physician,General Dentist,1163,0.0154,150000
+healthcare,physician,Nephrologist,1104,0.0147,250000
+healthcare,physician,Psychiatrist,1092,0.0145,253916
+healthcare,physician,Physician Hospitalist,1092,0.0145,250000
+healthcare,physician,Physician In A Post Graduate Training Program,1077,0.0143,79946
+healthcare,physician,Resident,1047,0.0139,71483
+product,product_manager,Product Manager,9974,0.1832,145382
+product,product_manager,Senior Product Manager,4919,0.0903,160000
+product,product_manager,Product Manager III,1993,0.0366,145100
+product,product_manager,Product Manager III Technical,1891,0.0347,160377
+product,product_manager,Product Owner,1404,0.0258,105685
+product,product_manager,Product Management,1098,0.0202,175706
+product,product_manager,Technical Product Manager,1033,0.019,125000
+product,product_manager,Director Product Management,959,0.0176,192000
+product,product_manager,Principal Product Manager,880,0.0162,199000
+product,product_manager,Product Manager II,822,0.0151,126797
+product,product_manager,Associate Product Manager,814,0.0149,105000
+product,product_manager,Staff Product Manager,713,0.0131,171000
+product,product_manager,Senior Manager Product Management,591,0.0109,166962
+product,product_manager,Senior Technical Product Manager,439,0.0081,155000
+product,product_manager,Product Manager III Technical Mba,438,0.008,151200
+education,professor,Assistant Professor,32776,0.4332,98837
+education,professor,Lecturer,2378,0.0314,65647
+education,professor,Associate Professor,1904,0.0252,114636
+education,professor,Instructor,1284,0.017,67658
+education,professor,Clinical Assistant Professor,1264,0.0167,125000
+education,professor,Visiting Assistant Professor,1013,0.0134,69868
+education,professor,Assistant Teaching Professor,773,0.0102,75024
+education,professor,Assistant Professor Of Computer Science,692,0.0091,87326
+education,professor,Professor,662,0.0087,175000
+education,professor,Research Assistant Professor,543,0.0072,80000
+education,professor,Assistant Professor Of Economics,509,0.0067,90000
+education,professor,Assistant Professor Of Finance,372,0.0049,130000
+education,professor,Assistant Professor Of Mathematics,343,0.0045,65016
+education,professor,Assistant Professor Clinical,327,0.0043,230000
+education,professor,Teaching Assistant Professor,297,0.0039,74000
+product,program_manager,Project Manager,13830,0.0884,96470
+product,program_manager,Technology Lead US,5326,0.0341,74443
+product,program_manager,Program Manager,5244,0.0335,133250
+product,program_manager,It Project Manager,5191,0.0332,92581
+product,program_manager,Technical Program Manager,3940,0.0252,161263
+product,program_manager,Project Manager US,3555,0.0227,101587
+product,program_manager,Technical Project Manager,2992,0.0191,106200
+product,program_manager,Technical Lead,2956,0.0189,78478
+product,program_manager,Technical Program Manager III,2524,0.0161,160326
+product,program_manager,Senior Project Manager US,2499,0.016,115586
+product,program_manager,Scrum Master,2339,0.015,92581
+product,program_manager,Consultant US,2225,0.0142,74443
+product,program_manager,Information Technology Project Manager,2106,0.0135,90002
+product,program_manager,Senior Project Manager,2085,0.0133,122325
+product,program_manager,Senior Program Manager,2062,0.0132,157715
+software,qa,Analyst Testing,3906,0.026,77418
+software,qa,Software Test Engineer,3142,0.0209,88000
+software,qa,Software Quality Assurance Engineer,3098,0.0206,85706
+software,qa,QA Engineer,2918,0.0194,86320
+software,qa,Software Development Engineer In Test,2904,0.0193,96595
+software,qa,Technical Test Lead US,2888,0.0192,77584
+software,qa,Test Consultant 2,2793,0.0186,75000
+software,qa,Test Engineer,2763,0.0184,87360
+software,qa,QA Analyst,2596,0.0173,82347
+software,qa,Sa Software Quality Assurance Analysts And Testers,2337,0.0156,85051
+software,qa,Quality Engineer,2118,0.0141,94286
+software,qa,Manager Software Quality Assurance Analysts And Testers,2040,0.0136,105654
+software,qa,Quality Assurance Engineer,2029,0.0135,87720
+software,qa,Quality Assurance Analyst,1931,0.0129,83200
+software,qa,Quality Assurance Engineer II,1904,0.0127,134550
+finance,quant,Associate,2000,0.0516,120000
+finance,quant,Analyst,1960,0.0506,75000
+finance,quant,Quantitative Researcher,1909,0.0492,175000
+finance,quant,Financial Risk Specialists,1399,0.0361,136351
+finance,quant,Quantitative Analyst,1340,0.0346,118362
+finance,quant,Vice President,1223,0.0316,164000
+finance,quant,Risk Management Specialists,1141,0.0294,102657
+finance,quant,Financial Quantitative Analysts,823,0.0212,125000
+finance,quant,Actuaries,575,0.0148,143060
+finance,quant,Trader,567,0.0146,165000
+finance,quant,Financial Quantitative Analyst,509,0.0131,80517
+finance,quant,Quantitative Research Analyst,433,0.0112,150000
+finance,quant,Risk Analyst,385,0.0099,85980
+finance,quant,Actuarial Analyst,348,0.009,84578
+finance,quant,Quantitative Trader,324,0.0084,150000
+data_ai,quant_stats,Operations Research Analysts,3687,0.0655,162000
+data_ai,quant_stats,Operations Research Analyst,1925,0.0342,75000
+data_ai,quant_stats,Senior Consultant,1523,0.027,104500
+data_ai,quant_stats,Consultant,1177,0.0209,90000
+data_ai,quant_stats,Manager,1124,0.02,124457
+data_ai,quant_stats,Analyst,993,0.0176,82000
+data_ai,quant_stats,Statisticians,988,0.0175,121901
+data_ai,quant_stats,Associate,850,0.0151,110000
+data_ai,quant_stats,Biostatistician,829,0.0147,82004
+data_ai,quant_stats,Senior Associate,796,0.0141,150000
+data_ai,quant_stats,Statistician,684,0.0121,87464
+data_ai,quant_stats,Senior Analyst,524,0.0093,95970
+data_ai,quant_stats,Research Scientist,484,0.0086,150000
+data_ai,quant_stats,Statistical Analyst,458,0.0081,85000
+data_ai,quant_stats,Operations Analyst,431,0.0077,71000
+data_ai,research_scientist,Research Scientist,4711,0.3463,182000
+data_ai,research_scientist,Research Engineer,621,0.0456,169000
+data_ai,research_scientist,Research Scientist II,533,0.0392,152214
+data_ai,research_scientist,Senior Research Scientist,300,0.0221,194088
+data_ai,research_scientist,Researcher,251,0.0185,162800
+data_ai,research_scientist,Research Scientist I,219,0.0161,128981
+data_ai,research_scientist,Member Of Technical Staff,192,0.0141,250000
+data_ai,research_scientist,Research Staff Member,147,0.0108,139200
+data_ai,research_scientist,Research Scientist / Engineer,146,0.0107,195000
+data_ai,research_scientist,Senior Research Engineer,145,0.0107,162000
+data_ai,research_scientist,Staff Research Scientist,138,0.0101,179837
+data_ai,research_scientist,Computer And Information Research Scientist,135,0.0099,117500
+data_ai,research_scientist,Research Scientist III,129,0.0095,178000
+data_ai,research_scientist,Senior Researcher,122,0.009,170811
+data_ai,research_scientist,Computer Scientist,100,0.0074,122454
+marketing_sales,sales,Sales Engineer,1056,0.0332,1e+05
+marketing_sales,sales,Business Development Manager,1036,0.0325,104302
+marketing_sales,sales,Business Development Specialist,703,0.0221,62400
+marketing_sales,sales,Sales Manager,609,0.0191,110594
+marketing_sales,sales,Account Manager,608,0.0191,105000
+marketing_sales,sales,Account Executive,488,0.0153,90167
+marketing_sales,sales,Business Development Analyst,399,0.0125,65000
+marketing_sales,sales,Product Manager,393,0.0123,139797
+marketing_sales,sales,Customer Success Manager,278,0.0087,110000
+marketing_sales,sales,Senior Sales Engineer,230,0.0072,139547
+marketing_sales,sales,Technical Sales Engineer,223,0.007,94786
+marketing_sales,sales,Solutions Architect,217,0.0068,148845
+marketing_sales,sales,Solutions Engineer,204,0.0064,127793
+marketing_sales,sales,Technical Account Manager,184,0.0058,111119
+marketing_sales,sales,Cloud Solution Engineer,174,0.0055,136601
+it,security,Information Security Analysts,4563,0.1039,139860
+it,security,Information Security Analyst,1752,0.0399,1e+05
+it,security,Security Engineer,1540,0.0351,120000
+it,security,Advisory Senior Consultant,929,0.0212,91333
+it,security,Network Security Engineer,861,0.0196,94661
+it,security,Information Security Engineer,819,0.0187,98176
+it,security,Security Engineer II,776,0.0177,160000
+it,security,Senior Security Engineer,681,0.0155,145887
+it,security,Advisory Manager,667,0.0152,128981
+it,security,Security Engineer I,548,0.0125,142675
+it,security,Security Analyst,471,0.0107,96595
+it,security,Advisory Consultant,384,0.0087,69971
+it,security,Application Security Engineer,326,0.0074,112000
+it,security,Manager,321,0.0073,164000
+it,security,Cyber Security Engineer,320,0.0073,93000
+science,social_scientist,Research Associate,623,0.0359,66500
+science,social_scientist,Associate,512,0.0295,175000
+science,social_scientist,Economist,489,0.0282,150000
+science,social_scientist,Analyst,405,0.0233,90000
+science,social_scientist,Business Manager,269,0.0155,105685
+science,social_scientist,Economist II,261,0.015,152000
+science,social_scientist,Senior Business Analyst,248,0.0143,102062
+science,social_scientist,Economist I,239,0.0138,129485
+science,social_scientist,Postdoctoral Fellow,228,0.0131,60000
+science,social_scientist,Postdoctoral Associate,225,0.013,65000
+science,social_scientist,Research Analyst,206,0.0119,78000
+science,social_scientist,Postdoctoral Scholar,203,0.0117,61500
+science,social_scientist,Postdoctoral Research Associate,202,0.0116,56940
+science,social_scientist,Transportation Planner,180,0.0104,73225
+science,social_scientist,Psychologist,168,0.0097,85000
+software,swe,Software Engineer,233713,0.1809,120931
+software,swe,Software Developer,176525,0.1366,95000
+software,swe,Senior Software Engineer,73790,0.0571,134347
+software,swe,Software Development Engineer II,22034,0.0171,155223
+software,swe,Senior Software Developer,21754,0.0168,110000
+software,swe,Java Developer,17913,0.0139,93558
+software,swe,Developer,15857,0.0123,79435
+software,swe,Software Development Engineer I,14244,0.011,128000
+software,swe,Software Engineering,13227,0.0102,168747
+software,swe,Application Developer,12354,0.0096,92560
+software,swe,Software Development Engineer,11291,0.0087,137259
+software,swe,Staff Software Engineer,10602,0.0082,170000
+software,swe,Software Engineer II,10504,0.0081,115409
+software,swe,Software Engineer III,10387,0.008,117000
+software,swe,Computer Programmer,10146,0.0079,81848
+it,systems_analyst,Senior Systems Analyst,33535,0.1093,80850
+it,systems_analyst,Manager,29067,0.0947,97240
+it,systems_analyst,Programmer Analyst,12947,0.0422,85000
+it,systems_analyst,Systems Analyst,10795,0.0352,87000
+it,systems_analyst,Computer Systems Analysts,9894,0.0322,120299
+it,systems_analyst,Computer Systems Analyst,8925,0.0291,91042
+it,systems_analyst,System Analyst,7978,0.026,80000
+it,systems_analyst,Analyst,6814,0.0222,81869
+it,systems_analyst,Salesforce Developer,6066,0.0198,97645
+it,systems_analyst,Senior Manager,5951,0.0194,114005
+it,systems_analyst,Business Systems Analyst,5504,0.0179,93642
+it,systems_analyst,Programmer Analyst II,5041,0.0164,86965
+it,systems_analyst,Technology Lead US Practitioner,4900,0.016,79872
+it,systems_analyst,Technology Lead US,3251,0.0106,82917
+it,systems_analyst,SAP Consultant,3147,0.0103,98500
+education,teacher,Teacher,4025,0.091,52000
+education,teacher,Elementary School Teacher,2213,0.05,55750
+education,teacher,Elementary Bilingual Teacher,1863,0.0421,64000
+education,teacher,Special Education Teacher,1695,0.0383,57087
+education,teacher,Math Teacher,1030,0.0233,52930
+education,teacher,Elementary Teacher,1014,0.0229,56154
+education,teacher,Public School Teacher,903,0.0204,47000
+education,teacher,Science Teacher,901,0.0204,53540
+education,teacher,Middle School Teacher,783,0.0177,56730
+education,teacher,Mathematics Teacher,546,0.0123,54612
+education,teacher,Spanish Teacher,523,0.0118,52540
+education,teacher,High School Math Teacher,518,0.0117,58341
+education,teacher,High School Teacher,464,0.0105,55596
+education,teacher,Bilingual Teacher,418,0.0094,54358
+education,teacher,High School Science Teacher,417,0.0094,58750
+design,ux_designer,Product Designer,1838,0.0938,130000
+design,ux_designer,User Interface Designer,1487,0.0758,71115
+design,ux_designer,UX Designer,1351,0.0689,104291
+design,ux_designer,Senior Product Designer,940,0.0479,152219
+design,ux_designer,UX Designer II,647,0.033,137600
+design,ux_designer,User Experience Designer,524,0.0267,101000
+design,ux_designer,UX Researcher,488,0.0249,148364
+design,ux_designer,Senior UX Designer,478,0.0244,128284
+design,ux_designer,UI / UX Designer,448,0.0229,87242
+design,ux_designer,UX Designer III,381,0.0194,150000
+design,ux_designer,Interaction Designer,331,0.0169,154000
+design,ux_designer,UX / UI Designer,246,0.0125,87000
+design,ux_designer,User Experience Researcher,211,0.0108,147136
+design,ux_designer,Visual Designer,195,0.0099,91634
+design,ux_designer,UI / UX Developer,185,0.0094,89939

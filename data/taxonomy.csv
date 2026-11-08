@@ -1,0 +1,53 @@
+family_id,role_id,role_name,role_order,family_name,family_order,indeed_sectors
+software,swe,Software Engineer,1,Software Engineering,1,Software Development
+software,frontend,Frontend / Web Developer,2,Software Engineering,1,Software Development
+software,mobile,Mobile Developer,3,Software Engineering,1,Software Development
+software,devops,DevOps / SRE / Cloud Engineer,4,Software Engineering,1,Software Development
+software,qa,QA / Test Engineer,5,Software Engineering,1,Software Development
+software,embedded,Embedded / Firmware Engineer,6,Software Engineering,1,Software Development
+data_ai,data_scientist,Data Scientist,7,Data & AI,2,Data & Analytics
+data_ai,ml_engineer,ML / AI Engineer,8,Data & AI,2,Data & Analytics
+data_ai,data_engineer,Data Engineer,9,Data & AI,2,Data & Analytics
+data_ai,data_analyst,Data / BI Analyst,10,Data & AI,2,Data & Analytics
+data_ai,research_scientist,Research Scientist (Computing),11,Data & AI,2,Data & Analytics
+data_ai,quant_stats,Statistician / Operations Research,12,Data & AI,2,Data & Analytics
+it,it_architect,Solutions / Systems Architect,13,"IT, Cloud & Security",3,"IT Infrastructure, Operations & Support; IT Systems & Solutions"
+it,systems_analyst,Systems Analyst / IT & ERP Consultant,14,"IT, Cloud & Security",3,"IT Infrastructure, Operations & Support; IT Systems & Solutions"
+it,security,Cybersecurity,15,"IT, Cloud & Security",3,"IT Infrastructure, Operations & Support; IT Systems & Solutions"
+it,network_sysadmin,"Network, Systems Admin & IT Support",16,"IT, Cloud & Security",3,"IT Infrastructure, Operations & Support; IT Systems & Solutions"
+it,dba,Database Administrator,17,"IT, Cloud & Security",3,"IT Infrastructure, Operations & Support; IT Systems & Solutions"
+it,it_manager,IT & Technology Manager,18,"IT, Cloud & Security",3,"IT Infrastructure, Operations & Support; IT Systems & Solutions"
+it,it_other,Other IT & Computing,19,"IT, Cloud & Security",3,"IT Infrastructure, Operations & Support; IT Systems & Solutions"
+product,product_manager,Product Manager,20,Product & Program Management,4,Project Management
+product,program_manager,Project / Program Manager,21,Product & Program Management,4,Project Management
+engineering,electrical,Electrical / Hardware Engineer,22,Hardware & Physical Engineering,5,Electrical Engineering; Mechanical Engineering; Civil Engineering; Industrial Engineering
+engineering,mechanical,Mechanical / Aerospace / Robotics Engineer,23,Hardware & Physical Engineering,5,Electrical Engineering; Mechanical Engineering; Civil Engineering; Industrial Engineering
+engineering,industrial_mfg,Industrial / Manufacturing Engineer,24,Hardware & Physical Engineering,5,Electrical Engineering; Mechanical Engineering; Civil Engineering; Industrial Engineering
+engineering,civil,Civil / Environmental Engineer,25,Hardware & Physical Engineering,5,Electrical Engineering; Mechanical Engineering; Civil Engineering; Industrial Engineering
+engineering,other_engineering,"Chemical, Materials & Other Engineering",26,Hardware & Physical Engineering,5,Electrical Engineering; Mechanical Engineering; Civil Engineering; Industrial Engineering
+engineering,eng_manager,Engineering Manager,27,Hardware & Physical Engineering,5,Electrical Engineering; Mechanical Engineering; Civil Engineering; Industrial Engineering
+finance,financial_analyst,Financial / Investment Analyst,28,Finance & Accounting,6,Accounting; Banking & Finance; Insurance
+finance,accountant,Accountant / Auditor,29,Finance & Accounting,6,Accounting; Banking & Finance; Insurance
+finance,quant,Quant / Risk / Actuary,30,Finance & Accounting,6,Accounting; Banking & Finance; Insurance
+business,consultant,Management Consultant,31,"Business, Consulting & Operations",7,Management; Logistic Support
+business,business_analyst,Business Analyst,32,"Business, Consulting & Operations",7,Management; Logistic Support
+business,operations,Operations / Supply Chain,33,"Business, Consulting & Operations",7,Management; Logistic Support
+business,general_mgmt,General & Executive Management,34,"Business, Consulting & Operations",7,Management; Logistic Support
+marketing_sales,marketing,Marketing & Communications,35,Marketing & Sales,8,Marketing; Sales; Media & Communications
+marketing_sales,sales,Sales & Business Development,36,Marketing & Sales,8,Marketing; Sales; Media & Communications
+design,ux_designer,UX / Product Designer,37,Design & Architecture,9,Arts & Entertainment; Architecture
+design,designer,Graphic / Industrial Designer,38,Design & Architecture,9,Arts & Entertainment; Architecture
+design,architect_building,Architect (Buildings),39,Design & Architecture,9,Arts & Entertainment; Architecture
+healthcare,physician,Physician / Surgeon / Dentist,40,Healthcare,10,Nursing; Physicians & Surgeons; Therapy; Pharmacy; Medical Technician; Dental; Medical Information
+healthcare,nurse,Nurse / Nurse Practitioner,41,Healthcare,10,Nursing; Physicians & Surgeons; Therapy; Pharmacy; Medical Technician; Dental; Medical Information
+healthcare,allied_health,"Therapist, Pharmacist & Allied Health",42,Healthcare,10,Nursing; Physicians & Surgeons; Therapy; Pharmacy; Medical Technician; Dental; Medical Information
+healthcare,health_admin,Healthcare Manager,43,Healthcare,10,Nursing; Physicians & Surgeons; Therapy; Pharmacy; Medical Technician; Dental; Medical Information
+healthcare,counselor_social,Counselor / Social Worker,44,Healthcare,10,Nursing; Physicians & Surgeons; Therapy; Pharmacy; Medical Technician; Dental; Medical Information
+science,life_scientist,Life & Medical Scientist,45,Science & Research,11,Scientific Research & Development; Social Science
+science,physical_scientist,"Chemist, Physicist & Physical Scientist",46,Science & Research,11,Scientific Research & Development; Social Science
+science,social_scientist,Economist & Social Scientist,47,Science & Research,11,Scientific Research & Development; Social Science
+education,professor,Professor / Postsecondary Teacher,48,Education,12,Education & Instruction
+education,teacher,K-12 Teacher & Education Staff,49,Education,12,Education & Instruction
+legal_hr,legal,Lawyer / Legal,50,Legal & HR,13,Legal; Human Resources
+legal_hr,hr,HR / Recruiting,51,Legal & HR,13,Legal; Human Resources
+other,other,Other occupations,52,Other occupations,14,""
