@@ -97,7 +97,7 @@ methodology_server <- function(id, d) {
       wide <- stats::reshape(x[, c("title_name", "title_order", "dol_name", "share_of_title_level")],
                              idvar = c("title_name", "title_order"), timevar = "dol_name", direction = "wide")
       names(wide) <- sub("^share_of_title_level\\.", "", names(wide))
-      med <- stats::aggregate(cbind(n, p50 = p50 * n) ~ title_name, data = x, FUN = sum)
+      med <- stats::aggregate(n ~ title_name, data = x, FUN = sum)
       wide$filings <- med$n[match(wide$title_name, med$title_name)]
       wide <- wide[order(wide$title_order), setdiff(names(wide), "title_order")]
       dol_cols <- intersect(lv$level_name[lv$basis == "dol"], names(wide))
