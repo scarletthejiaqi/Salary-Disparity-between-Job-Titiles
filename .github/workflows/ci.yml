@@ -8,6 +8,10 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    env:
+      # Fast Linux binaries from Posit Package Manager, with CRAN as a fallback
+      # for versions PPM has not published yet.
+      RENV_CONFIG_REPOS_OVERRIDE: "PPM=https://packagemanager.posit.co/cran/__linux__/noble/latest;CRAN=https://cloud.r-project.org"
     steps:
       - uses: actions/checkout@v4
 
